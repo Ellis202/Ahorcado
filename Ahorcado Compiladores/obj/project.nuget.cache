@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nQ/UjWB2dULG8biYyk0zA33pkuH+Ez8M5jHZl53WiIy/9ePkhCA0aWAth2ltEzUtR6dWKar+Y6DPhROpiiUUWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JENIM\\source\\repos\\Ahorcado Compiladores\\Ahorcado Compiladores\\Ahorcado Compiladores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JENIM\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

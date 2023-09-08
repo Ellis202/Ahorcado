@@ -1,0 +1,17 @@
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\bin\Debug\net6.0\Ahorcado Compiladores.exe
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\bin\Debug\net6.0\Ahorcado Compiladores.deps.json
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\bin\Debug\net6.0\Ahorcado Compiladores.runtimeconfig.json
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\bin\Debug\net6.0\Ahorcado Compiladores.dll
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\bin\Debug\net6.0\Ahorcado Compiladores.pdb
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\obj\Debug\net6.0\Ahorcado Compiladores.csproj.AssemblyReference.cache
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\obj\Debug\net6.0\Ahorcado Compiladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\obj\Debug\net6.0\Ahorcado Compiladores.AssemblyInfoInputs.cache
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\obj\Debug\net6.0\Ahorcado Compiladores.AssemblyInfo.cs
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\obj\Debug\net6.0\Ahorcado Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\obj\Debug\net6.0\Ahorcado Compiladores.csproj.CopyComplete
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\obj\Debug\net6.0\Ahorcado Compiladores.dll
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\obj\Debug\net6.0\refint\Ahorcado Compiladores.dll
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\obj\Debug\net6.0\Ahorcado Compiladores.pdb
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\obj\Debug\net6.0\Ahorcado Compiladores.genruntimeconfig.cache
+C:\Users\JENIM\source\repos\Ahorcado Compiladores\Ahorcado Compiladores\obj\Debug\net6.0\ref\Ahorcado Compiladores.dll
