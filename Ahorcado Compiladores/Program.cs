@@ -73,6 +73,7 @@ class Program
                 {
                     attemptsLeft--;
                     Console.WriteLine($"La letra '{guessChar}' no está en el nombre. Intentos restantes: {attemptsLeft}");
+                    DisplayHangman(attemptsLeft);
                 }
 
                 Console.WriteLine("Nombre actual: " + hiddenName);
@@ -90,4 +91,28 @@ class Program
             }
         }
     }
+    static void DisplayHangman(int attemptsLeft)
+    {
+        //dibujar al ahorcado
+        string[] hangmanArt =
+        {
+            "  +---+",
+            "  |   |",
+            $"  {(attemptsLeft < 6 ? "O" : " ")}   |",
+            $" {(attemptsLeft < 4 ? "/" : " ")}{(attemptsLeft < 5 ? "|" : " ")}{(attemptsLeft < 3 ? "\\" : " ")}  |",
+            $" {(attemptsLeft < 2 ? "/" : " ")} {(attemptsLeft < 1 ? "\\" : " ")}  |",
+            "      |",
+            "=========",
+        };
+
+        Console.WriteLine("\nAhorcado:");
+
+        foreach (string line in hangmanArt)
+        {
+            Console.WriteLine(line);
+        }
+
+        Console.WriteLine();
+    }
+
 }
